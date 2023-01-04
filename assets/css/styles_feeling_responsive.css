@@ -6819,7 +6819,7 @@ body.video cite {
 ------------------------------------------------------------------- */
 #subfooter {
   background: #313131;
-  color: #7E7E7E;
+  color: #BEBEBE;
   padding-top: 30px;
   padding-bottom: 10px;
 }
@@ -6829,11 +6829,18 @@ body.video cite {
 }
 
 #subfooter .credits a {
-  color: #7E7E7E;
+  color: #BEBEBE;
   border: 0;
-  text-transform: uppercase;
 }
 #subfooter .credits a:hover {
+  color: #fff;
+}
+
+#subfooter a {
+  color: #BEBEBE;
+  text-transform: uppercase;
+}
+#subfooter a:hover {
   color: #fff;
 }
 
@@ -6843,7 +6850,7 @@ body.video cite {
   width: 36px;
   border-radius: 50%;
   color: #313131;
-  background: #7E7E7E;
+  background: #BEBEBE;
   text-align: center;
 }
 
