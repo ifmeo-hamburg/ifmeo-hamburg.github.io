@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ifmeo-hamburg.github.io//sitemap.xml
