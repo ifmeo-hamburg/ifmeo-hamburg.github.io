@@ -184,21 +184,6 @@
 
             
             
-              <li><a  href="http://localhost:4000/news/">News</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
               <li><a  href="http://localhost:4000/manual/">Manual</a></li>
               <li class="divider"></li>
 
@@ -218,14 +203,6 @@
       
 
       <ul class="right">
-        
-
-              
-
-
-
-          
-          
         
 
               
